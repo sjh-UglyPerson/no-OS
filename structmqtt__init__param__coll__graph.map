@@ -1,0 +1,4 @@
+<map id="mqtt_init_param" name="mqtt_init_param">
+<area shape="rect" id="node1" title="Parameter used to initialize an MQTT client." alt="" coords="5,95,133,121"/>
+<area shape="rect" id="node2" href="$structtcp__socket__desc.html" title="TCP Socket descriptor." alt="" coords="5,5,133,32"/>
+</map>

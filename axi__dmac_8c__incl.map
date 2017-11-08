@@ -1,0 +1,11 @@
+<map id="drivers/axi_core/axi_dmac/axi_dmac.c" name="drivers/axi_core/axi_dmac/axi_dmac.c">
+<area shape="rect" id="node1" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="195,5,339,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,95,163,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="187,95,257,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="282,95,346,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="370,95,437,121"/>
+<area shape="rect" id="node7" href="$axi__dmac_8h.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="461,95,556,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="429,169,500,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="525,169,578,196"/>
+</map>

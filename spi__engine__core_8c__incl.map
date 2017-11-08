@@ -1,0 +1,13 @@
+<map id="projects/ad713x_fmcz/spi_engine_core.c" name="projects/ad713x_fmcz/spi_engine_core.c">
+<area shape="rect" id="node1" title=" " alt="" coords="313,5,475,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,244,87,271"/>
+<area shape="rect" id="node3" title=" " alt="" coords="203,244,273,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="432,95,497,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="521,95,589,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="613,95,681,121"/>
+<area shape="rect" id="node7" href="$projects_2ad713x__fmcz_2axi__io_8h.html" title="Header file of AXI IO." alt="" coords="288,169,359,196"/>
+<area shape="rect" id="node8" href="$projects_2ad713x__fmcz_2error_8h.html" title="Error codes definition." alt="" coords="706,95,770,121"/>
+<area shape="rect" id="node9" href="$projects_2ad713x__fmcz_2spi_8h.html" title=" " alt="" coords="212,169,264,196"/>
+<area shape="rect" id="node10" href="$spi__engine__core_8h.html" title=" " alt="" coords="105,95,243,121"/>
+<area shape="rect" id="node11" href="$projects_2ad713x__fmcz_2util_8h.html" title="Implementation of utility functions." alt="" coords="83,169,137,196"/>
+</map>

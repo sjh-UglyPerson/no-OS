@@ -1,0 +1,12 @@
+<map id="drivers/axi_core/axi_adc_core/axi_adc_core.c" name="drivers/axi_core/axi_adc_core/axi_adc_core.c">
+<area shape="rect" id="node1" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="280,5,465,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,95,163,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="187,95,273,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="297,95,361,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="385,95,451,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="466,169,519,196"/>
+<area shape="rect" id="node8" href="$axi__adc__core_8h.html" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="526,95,643,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="667,95,737,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="549,169,620,196"/>
+</map>

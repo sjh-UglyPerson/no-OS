@@ -1,0 +1,7 @@
+<map id="include/wifi.h" name="include/wifi.h">
+<area shape="rect" id="node1" title="Wifi interface for ESP8266." alt="" coords="111,5,214,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="191,155,262,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,80,172,107"/>
+<area shape="rect" id="node4" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="196,80,256,107"/>
+<area shape="rect" id="node5" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="281,80,332,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hweight8" name="hweight8">
+<area shape="rect" id="node1" title=" " alt="" coords="373,31,452,57"/>
+<area shape="rect" id="node2" href="$iio__ad713x_8c.html#ac3962ef17b0895a08df1f0fc994fa919" title="Read chunk of data from RAM to pbuf. Call &quot;iio_ad713x_transfer_dev_to_mem&quot; first. This function is pr..." alt="" coords="169,5,325,32"/>
+<area shape="rect" id="node4" href="$ad9371_2src_2app_2headless_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="220,56,275,83"/>
+<area shape="rect" id="node3" href="$iio__ad713x_8h.html#a259a55182ae9a8bbf607f56a79f97f45" title="Initialization function." alt="" coords="5,5,121,32"/>
+</map>

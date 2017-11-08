@@ -1,0 +1,23 @@
+<map id="iio/iio_ad713x/iio_ad713x.c" name="iio/iio_ad713x/iio_ad713x.c">
+<area shape="rect" id="node1" title="Implementation of iio_ad713x.c." alt="" coords="449,5,575,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,91,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="115,95,186,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="210,95,278,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="302,95,370,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="395,95,459,121"/>
+<area shape="rect" id="node7" href="$xml_8h.html" title="Header file of xml." alt="" coords="483,95,541,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="991,95,1044,121"/>
+<area shape="rect" id="node10" href="$iio_8h.html" title="Header file of iio." alt="" coords="692,95,740,121"/>
+<area shape="rect" id="node16" href="$iio__ad713x_8h.html" title="Header file of iio_axi_adc." alt="" coords="565,95,667,121"/>
+<area shape="rect" id="node18" href="$spi__engine__core_8h.html" title=" " alt="" coords="879,169,1017,196"/>
+<area shape="rect" id="node21" href="$spi__engine__offload_8h.html" title=" " alt="" coords="764,95,916,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="485,169,550,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="775,169,854,196"/>
+<area shape="rect" id="node12" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="660,169,751,196"/>
+<area shape="rect" id="node13" title=" " alt="" coords="715,319,797,345"/>
+<area shape="rect" id="node14" title=" " alt="" coords="874,319,945,345"/>
+<area shape="rect" id="node15" title=" " alt="" coords="573,244,667,271"/>
+<area shape="rect" id="node17" title=" " alt="" coords="583,169,635,196"/>
+<area shape="rect" id="node19" href="$projects_2ad713x__fmcz_2spi_8h.html" title=" " alt="" coords="922,244,974,271"/>
+<area shape="rect" id="node20" href="$projects_2ad713x__fmcz_2util_8h.html" title="Implementation of utility functions." alt="" coords="844,244,897,271"/>
+</map>

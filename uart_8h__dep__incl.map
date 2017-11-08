@@ -1,0 +1,11 @@
+<map id="include/uart.h" name="include/uart.h">
+<area shape="rect" id="node1" title="Header file of UART interface." alt="" coords="714,5,823,32"/>
+<area shape="rect" id="node2" href="$wifi_8h.html" title="Wifi interface for ESP8266." alt="" coords="5,87,108,114"/>
+<area shape="rect" id="node3" href="$aducm3029_2irq_8c.html" title="Implementation of External IRQ driver for ADuCM302x." alt="" coords="133,80,335,121"/>
+<area shape="rect" id="node4" href="$aducm3029_2uart_8c.html" title="Implementation of UART driver for ADuCM302x." alt="" coords="359,80,562,121"/>
+<area shape="rect" id="node5" href="$generic_2uart_8c.html" title=" " alt="" coords="587,80,761,121"/>
+<area shape="rect" id="node6" href="$xilinx_2uart_8c.html" title=" " alt="" coords="785,80,944,121"/>
+<area shape="rect" id="node7" href="$ad713x__fmc_8c.html" title="Implementation of Main Function." alt="" coords="969,80,1131,121"/>
+<area shape="rect" id="node8" href="$app__iio_8c.html" title="Application IIO setup." alt="" coords="1156,80,1304,121"/>
+<area shape="rect" id="node9" href="$iio__demo_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="1328,80,1487,121"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="drivers/axi_core/clk_altera_a10_fpll/clk_altera_a10_fpll.c" name="drivers/axi_core/clk_altera_a10_fpll/clk_altera_a10_fpll.c">
+<area shape="rect" id="node1" title="Driver for the Altera FPLL." alt="" coords="355,5,497,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,73,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,109,168,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="192,109,257,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="529,184,611,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="333,109,418,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="443,109,511,136"/>
+<area shape="rect" id="node8" title=" " alt="" coords="535,109,581,136"/>
+<area shape="rect" id="node9" title=" " alt="" coords="605,109,658,136"/>
+<area shape="rect" id="node10" title=" " alt="" coords="682,109,746,136"/>
+<area shape="rect" id="node11" href="$clk__altera__a10__fpll_8h.html" title="Driver for the Altera FPLL." alt="" coords="771,109,921,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tcp_socket_init_param" name="tcp_socket_init_param">
+<area shape="rect" id="node1" title="Parameter to initialize a TCP Socket." alt="" coords="5,184,172,211"/>
+<area shape="rect" id="node2" href="$structsecure__init__param.html" title=" " alt="" coords="19,95,159,121"/>
+<area shape="rect" id="node3" href="$structtrng__init__param.html" title="Init parameter for TRNG." alt="" coords="27,5,150,32"/>
+</map>

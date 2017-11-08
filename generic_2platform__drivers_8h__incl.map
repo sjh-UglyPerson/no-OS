@@ -1,0 +1,9 @@
+<map id="drivers/platform/generic/platform_drivers.h" name="drivers/platform/generic/platform_drivers.h">
+<area shape="rect" id="node1" title="Header file of Generic Platform Drivers." alt="" coords="127,5,302,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,72,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="96,95,160,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="184,95,245,121"/>
+<area shape="rect" id="node5" href="$i2c_8h.html" title="Header file of I2C Interface." alt="" coords="270,95,322,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="346,95,398,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="261,169,331,196"/>
+</map>

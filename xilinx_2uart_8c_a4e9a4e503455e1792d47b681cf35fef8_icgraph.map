@@ -1,0 +1,5 @@
+<map id="uart_read" name="uart_read">
+<area shape="rect" id="node1" title="Read data from UART device." alt="" coords="261,5,345,32"/>
+<area shape="rect" id="node2" href="$ad713x__fmc_8c.html#a830dde90a4b44ea7247e2668780148bb" title=" " alt="" coords="108,5,213,32"/>
+<area shape="rect" id="node3" href="$ad9361_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="5,5,60,32"/>
+</map>

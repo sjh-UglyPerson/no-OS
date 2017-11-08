@@ -1,0 +1,5 @@
+<map id="spi_eng_offload_load_msg" name="spi_eng_offload_load_msg">
+<area shape="rect" id="node1" title=" " alt="" coords="364,13,555,39"/>
+<area shape="rect" id="node2" href="$iio__ad713x_8c.html#ad4cff533f1b6bfdfe456a574ed302e23" title="Transfer data from device into RAM." alt="" coords="169,5,316,47"/>
+<area shape="rect" id="node3" href="$iio__ad713x_8h.html#a259a55182ae9a8bbf607f56a79f97f45" title="Initialization function." alt="" coords="5,13,121,39"/>
+</map>

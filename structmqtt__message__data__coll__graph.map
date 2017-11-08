@@ -1,0 +1,4 @@
+<map id="mqtt_message_data" name="mqtt_message_data">
+<area shape="rect" id="node1" title="Messages received from a topic." alt="" coords="5,95,160,121"/>
+<area shape="rect" id="node2" href="$structmqtt__message.html" title="Message structure." alt="" coords="23,5,142,32"/>
+</map>
