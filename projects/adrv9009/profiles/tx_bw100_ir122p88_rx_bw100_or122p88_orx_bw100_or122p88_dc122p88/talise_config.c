@@ -209,7 +209,7 @@ taliseInit_t talInit = {
 	/* Digital Clock Settings */
 	.clocks =
 	{
-		.deviceClock_kHz = 122880,            /* CLKPLL and device reference clock frequency in kHz */
+		.deviceClock_kHz = 245760,            /* CLKPLL and device reference clock frequency in kHz */
 		.clkPllVcoFreq_kHz = 9830400,        /* CLKPLL VCO frequency in kHz */
 		.clkPllHsDiv = TAL_HSDIV_2P5,            /* CLKPLL high speed clock divider */
 		.rfPllUseExternalLo = 0,                /* 1= Use external LO for RF PLL, 0 = use internal LO generation for RF PLL */
